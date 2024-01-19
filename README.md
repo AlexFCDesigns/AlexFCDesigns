@@ -17,3 +17,6 @@ Desde entonces, al abandonar Realtrack, empecé a seguir formándome como desarr
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-fernández-crespo-2a1045144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-fernández-crespo-2a1045144" height="30" width="40" /></a>
 </p>
+
+
+<img src="https://camo.githubusercontent.com/7f264b9e9cb6b25af91420b655ddeebd82534b31fe15679d6131365c0570c341/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Apple" data-canonical-src="https://img.shields.io/badge/iOS-999999?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
