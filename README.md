@@ -1,13 +1,13 @@
 
-# Hola, mi nombre es Alejandro Fernández Crespo👋
+# Hola, mi nombre es Alejandro Fernández Crespo 👋
 
-## Android, iOS and Web Flutter Developer | Ingeniero Informático
+## Software Developer | Ingeniero Informático
 
-Mi nombre es Alejandro, y soy Ingeniero Informático.
+Mi nombre es Alejandro,
 
-No supe que me quería dedicar a la programación hasta muy avanzado el Grado, pero desde que me di cuenta es una de mis pasiones. Mi experiencia viene de dicho Grado, donde he aprendido varios lenguajes de programación (en especial Java), pero donde más me he desarrollado ha sido en Flutter. En 2022 comencé a trabajar como practicas curriculares en Realtrack Systems, y una vez acabado este periodo, decidieron contratarme durante 6 meses más, donde me desarrollé aún más en este código de Google.
+Soy desarrollador de software, con mayor experiencia en Flutter y Firebase, conocimientos que adquirí en Realtrack Systems SL. Además, tengo experiencia con MySQL, Postman REST API, Java y C. Tras finalizar, he continuado mi formación de manera autónoma, desarrollando proyectos personales con Flutter.
 
-Desde entonces, al abandonar Realtrack, empecé a seguir formándome como desarrollador realizando proyectos personales, hasta el día de hoy donde mi pasión reside en el desarrollo de software. Pero soy un poco ambicioso, y no le pienso cerrar las puertas a otro tipo de códigos y caminos donde mis habilidades pueden verse mucho más desarrolladas.
+Cuento con un nivel de inglés B2 y estoy trabajando activamente para mejorarlo. Me considero una persona ambiciosa, con excelentes habilidades de comunicación y un fuerte deseo de superación. Mi pasión por la tecnología y mi compromiso con el aprendizaje continuo me permiten adaptarme a nuevos desafíos y entornos rápidamente. Estoy siempre en busca de oportunidades para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
 
 ## Tecnologías
 
