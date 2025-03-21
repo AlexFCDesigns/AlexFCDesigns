@@ -7,7 +7,7 @@ Mi nombre es Alejandro,
 
 Soy desarrollador de software, con mayor experiencia en Flutter y Firebase, conocimientos que adquirí en Realtrack Systems SL. Además, tengo experiencia con MySQL, Postman REST API, Java y C. Tras finalizar, he continuado mi formación de manera autónoma, desarrollando proyectos personales con Flutter.
 
-Cuento con un nivel de inglés B2 y estoy trabajando activamente para mejorarlo. Me considero una persona ambiciosa, con excelentes habilidades de comunicación y un fuerte deseo de superación. Mi pasión por la tecnología y mi compromiso con el aprendizaje continuo me permiten adaptarme a nuevos desafíos y entornos rápidamente. Estoy siempre en busca de oportunidades para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
+Cuento con un nivel de inglés C1 y estoy trabajando activamente para mejorarlo. Me considero una persona ambiciosa, con excelentes habilidades de comunicación y un fuerte deseo de superación. Mi pasión por la tecnología y mi compromiso con el aprendizaje continuo me permiten adaptarme a nuevos desafíos y entornos rápidamente. Estoy siempre en busca de oportunidades para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
 
 ## Tecnologías
 
